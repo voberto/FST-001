@@ -4,8 +4,8 @@
 This project is a full-stack web application template designed to streamline the development of modern web applications. It combines Django for the backend, Next.js for the frontend, and Docker for containerization, providing a robust and scalable architecture.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="img/img_login.png" alt="Login Image" width="500" height="500" style="margin-right: 20px;">
-    <img src="img/img_dashboard.png" alt="Dashboard Image" width="500" height="500">
+    <img src="img/img_login.png" alt="Login Image" width="300" height="500" style="margin-right: 15px;">
+    <img src="img/img_dashboard.png" alt="Dashboard Image" width="300" height="500">
 </div>
 
 ## Installation Requirements
