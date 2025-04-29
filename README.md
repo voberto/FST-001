@@ -1,5 +1,4 @@
-# FST-001
-## Full Stack Template for Web Applications
+# FST-001 (Full Stack Template for Web Applications)
 ![](img/img_login.png)![](img/img_dashboard.png)
 
 1. Backend -> Django REST Framework. 
