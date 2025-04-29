@@ -18,11 +18,11 @@ let using_docker : boolean = false; // frontend/services/api.ts
 USING_DOCKER = False                // backend/prj_core/settings.py
 ```
 2. Backend:
-  1. Create virtual environment and install libraries from requirements.txt
-  2. Run the development server -> python manage.py runserver
+    1. Create virtual environment and install libraries from requirements.txt
+    2. Run the development server -> python manage.py runserver
 3. Frontend:
-  1. npm run build (first time if needed) 
-  2. npm run dev (or npm start)
+    1. npm run build (first time if needed) 
+    2. npm run dev (or npm start)
 4. With both backend and frontend running, access the application through 'http://localhost:3000'
 
 ### With Docker:
