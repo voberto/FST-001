@@ -11,9 +11,7 @@ class TokenValidationMiddleware(MiddlewareMixin):
 
         # Get the token from the Authorization header
         auth = request.headers.get('Authorization', None)
-        print(auth)
-        print(request.headers)
-
+        
         if auth is None:
             raise AuthenticationFailed('Authorization header is missing.')
 
