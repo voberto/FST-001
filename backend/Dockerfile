@@ -22,9 +22,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the entire backend code
 COPY . .
 
-# Copy the wait script
-COPY wait-for-it.sh /usr/local/bin/wait-for-it
-RUN chmod +x /usr/local/bin/wait-for-it
-
 # Expose the port your app runs on
 EXPOSE 8000

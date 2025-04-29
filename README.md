@@ -1,11 +1,10 @@
 # Full Stack Template (Django, Next.js, Docker, nginx) for Web Applications
 
 ## Project Description
-This project is a full-stack web application template designed to streamline the development of modern web applications. It combines Django for the backend, Next.js for the frontend, and Docker for containerization, providing a robust and scalable architecture.
+This is a full-stack web application template designed as a quick bootstrap for the development of proof of concepts. It combines Django for the backend, Next.js for the frontend, and Docker for containerization, providing a robust and scalable architecture for modern web applications.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="img/img_login.png" alt="Login Image" width="400" height="500" style="margin-right: 15px;">
-    <img src="img/img_dashboard.png" alt="Dashboard Image" width="400" height="500">
+<div style="display: flex; justify-content: center;">
+    <img src="img/demo.gif" alt="Application Overview" width="600" height="auto">
 </div>
 
 ## Installation Requirements
